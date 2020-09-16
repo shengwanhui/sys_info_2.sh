@@ -1,8 +1,10 @@
 #!/bin/bash
 # Program to output a system information page
+
+Title="System information of $USER"
 echo "<html>
 	<head>
-	<title>Page Title</title>
+	<title>$Title</title>
 	</head>
 	<body>
 	Page body.
