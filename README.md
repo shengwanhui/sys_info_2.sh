@@ -1,0 +1,1 @@
+# sys_info_2.sh
