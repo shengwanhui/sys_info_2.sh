@@ -7,6 +7,6 @@ echo "<html>
 	<title>$Title</title>
 	</head>
 	<body>
-	Page body.
+	<h1>$Title</h1>
 	</body>
 	</html>"
